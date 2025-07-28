@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "BTP Application Logs",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "subobjects": [
+    {
+      "name": "/NEWR/BTP_LOGS",
+      "description": "BTP Logs"
+    }
+  ]
+}
